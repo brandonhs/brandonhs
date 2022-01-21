@@ -1,4 +1,4 @@
-### TheRealJoe24
+### brandonhs
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=brandonhs)](https://github.com/anuraghazra/github-readme-stats)
 
